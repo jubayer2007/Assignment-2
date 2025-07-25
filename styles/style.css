@@ -166,10 +166,11 @@ body h3{
 }
 
 .badge{
+    position: relative;
     height: 285px;
     width: 285px;
     margin-top: 50px;
-    margin-left: 550px;
+    margin-left: 500px;
     margin-bottom: -150px;
 }
 
